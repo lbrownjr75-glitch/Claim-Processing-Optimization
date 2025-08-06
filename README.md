@@ -1,4 +1,5 @@
 # Claims Processing Optimization (Excel Interactive Dashboard)
+This dashboard will allow you to consolidates key claims data into an interactive visual tool, empowering insurance managers to monitor performance, spot trends, and drive operational improvements. It showcases the value of automation, identifies process bottlenecks, and highlights standout adjusters, serving as both a strategic decision aid and a strong portfolio piece for analytics professionals.
 ## Project Objective
 The objective of this project is to identify delays and improve claims resolution times across different types of insurance claims. By analyzing data on claim type, resolution time, adjuster performance, location, and automation levels, we aim to uncover inefficiencies, measure adjuster productivity, and provide actionable insights. The final output is an interactive Excel dashboard designed for insurance managers to monitor performance and make data-driven decisions.
 ## Dataset Used
