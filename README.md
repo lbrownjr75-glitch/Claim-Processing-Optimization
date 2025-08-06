@@ -11,4 +11,4 @@ The objective of this project is to identify delays and improve claims resolutio
 -	Which routes show the highest costs, lowest MPG, and longest average times?
 -	How does total fuel cost vary by month?
 -	What is our on-time delivery rate as a percentage?
--	Interactive Dashboard <a href="https://github.com/lbrownjr75-glitch/Claim-Processing-Optimization/blob/main/claims_processing_dashboard%20completed.xlsx
+-	Interactive Dashboard <a href="https://github.com/lbrownjr75-glitch/Claim-Processing-Optimization/blob/main/claims_processing_dashboard%20completed.xlsx">ViewDashboard</a>
