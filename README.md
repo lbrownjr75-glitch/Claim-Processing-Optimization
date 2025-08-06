@@ -18,4 +18,4 @@ o	Complexity Level (Low, Medium, High).
 o	Month Reported for trend analysis.
 -	Merged all pivot tables into a single dashboard with a slicer for dynamic interaction.
 # Dashboard
-![image alt](image_url)
+![image alt](https://github.com/lbrownjr75-glitch/Claim-Processing-Optimization/blob/main/Screenshot%202025-08-06%20115812.png))
